@@ -2,10 +2,10 @@
 
 ## Introduction
 
-Pandunia is a constructed language that is designed to be relatively easy for
+Dunish is a constructed language that is designed to be relatively easy for
 everyone. You can learn it fast with this practical course.
 
-English speakers will find it easy to make basic sentences in Pandunia as the
+English speakers will find it easy to make basic sentences in Dunish as the
 word order is generally the same as in English, there are no definite or
 indefinite articles, no verb "to be", and no complicated rules about changing
 the form of words to express singular and plural or the tense of verbs.
@@ -26,132 +26,130 @@ As they say, _repetition is the mother of learning_.
 Note! Many lessons include also tips and notes like this. They are there to
 clarify grammatical details for those who are interested. You can skip over
 them if they are not helpful. You don't have to know the theory of the
-language. You can just speak Pandunia!
+language. You can just speak Dunish!
 
 ## Part 1: Greeting and basics
 
-### salam <small>greet, greeting</small>
+### Halow <small>greet, greeting</small>
 
-**salam**
+**Halow!**
 Hello!
 
-**salam sube!**
+**Gude suba!**
 Good morning!
 
-**salam den!**
+**Gude dey!**
 Good day!
 
-**salam xam!**
-Good evening!
-
-**salam noce!**
+**Gude noce!**
 Good night!
 
-**salam nyam!**
+**Gude nyam!**
 Bon appetit!
 
-**salam lay!**
+**Gude kom!**
 Welcome!
 
-**salam cute!**
+**Gude gow!**
 Goodbye!
 
-**salam safar!**
-Have a safe journey!
-
-**salam son!**
+**Gude sona!**
 Sleep well!
 
-As you can see from the range of expressions, **salam** is a general word for
-well-wishing. Use it any time!
 
-**Salam** is a popular greeting that is used by both religious and
-non-religious people in many different countries around the world.
+### Mi <small>I, me</small>
 
-<small>Etymology. **salam** is from Arabic: سَلَام‏ "salām", Hebrew:
-שָׁלוֹם‏ "šalom", Turkish: selam, Hindi: सलाम "salām", Swahili: salaam,
-Indonesian: selamat.</small>
-
-### me <small>I, me</small>
-
-**me sarah.**
+**Mi Sara.**
 I'm Sarah.
 
-**me tomas.**
+**Mi Tomas.**
 I'm Thomas.
 
-You can introduce yourself simply by saying **me** and your name. You don't
-need a verb for saying it in Pandunia!
+You can introduce yourself simply by saying **mi** and your name. You don't
+need a verb for saying it in Dunish!
 
-**me salama mame.**
+**Mi halow da mama.**
 I greet mother.
 
-**me salama pape.**
+**Mi halow da papa.**
 I greet father.
 
-The word **salam** is a noun and **salama** is the corresponding verb. The
-basic word order in Pandunia is subject-verb-object.
+The word **halow** can function also as a verb. The basic word order in Dunish
+is subject-verb-object. You need to put **da** before the direct object.
 
-**sarah salama tomas.**
+**Sara halow da Tomas.**
 Sarah greets Thomas.
 
-**salam mame!**
-Greetings, mother!
+**Halow, mama!**
+Hello, mother!
 
-**salam pape!**
-Greetings, father!
+**Halow, papa!**
+Hello, father!
 
-<small>Etymology. **me**
-is from English: me, Hindi: मैं (meṇ), Spanish: me.</small>
+<small>Etymology. **mi**
+is from English: me, Swahili: mimi, Hindi: मैं (meṇ), Spanish: me.</small>
 
 
-### te <small>you</small>
+### Yu <small>you</small>
 
-**te tomas.**
+**Yu Tomas.**
 You are Thomas.
 
-**me salama te.**
+**Mi halow yu.**
 I greet you.
 
-**te salama me.**
+You don't need to use **da** when the direct object is a personal pronoun.
+
+**Yu halow mi.**
 You greet me.
 
-Pronouns don't ever change their form in Pandunia. That's why **me** is the
-same in subject and object positions while English has two different forms, 'I'
-and 'me'.
+Words don't ever change their form in Dunish. So **mi** is always the same
+Dunish but in English you need two different forms, 'I' and 'me'.
 
-**me ama te.**
+**Mi love yu.**
 I love you.
 
-<small>Etymology. **te** is from Hungarian: te, Russian: ты (ty), Italian: te, French: te.</small>
+**Yu** is the second-person plural pronoun in Dunish. It is also used as a
+polite way to address people. In intimate situations you can use **tu**,
+which is the second-person singular pronoun in Dunish.
+
+**Mi love tu.**
+I love you.
+
+<small>Etymology. **Yu** is from English _you_, Russian: ты (ty), Italian: te, French: te.</small>
+
+<small>Etymology. **Tu** is from French _tu_, Spanish _tú_.</small>
 
 
-### le <small>he, she or it</small>
+### Ha <small>he, she or it</small>
 
-**le man.**
+**Ha man.**
 He is a man.
 
-**le fem.**
+**Ha fem.**
 She is a woman.
 
-**le aple.**
+**Ha aple.**
 It is an apple.
 
-**le** is the general third person pronoun. It is used for people (irrespective
-of gender) as well as for things.
+**Ha** is the general third person pronoun. It's not gender-specific like
+_he_ and _she_ are in English. You can also use it for things.
 
-**me salama le.**
+**Ha** is neutral because it sounds like a mix of English _he_ and _her_.
+
+**Mi halow ha.**
 I greet him/her.
 
-<small>Etymology. **le** is from French: elle, Spanish: él.</small>
+<small>Etymology. **He** is from English _he_ and _her_,
+Hebrew הוּא‎ (hu, masculine) and הִיא‎ (hi, feminine).</small>
 
 
-### eska <small>to ask a question</small>
+### Aske <small>to ask a question</small>
 
-**eska te tomas?**
+**Aske yu tomas?**
 Are you Thomas?
 
-**eska te dotor?**
+**Aske yu dokte?**
 Are you a doctor?
 
 Tip: Yes/no questions frequently begin with **eska**. It is just a regular
@@ -412,7 +410,7 @@ He/she eats an apple.
 **lole nyama aple.**
 They eat apples.
 
-Note: Unlike English, Pandunia doesn't have separate singular and plural forms.
+Note: Unlike English, Dunish doesn't have separate singular and plural forms.
 Therefore a word like **aple** can refer to one or more apples.
 
 **eska te nyama kafe?**
@@ -437,7 +435,7 @@ Would you like to eat?
 **te wanta nyama ke?**
 What would you like to eat?
 
-Tip: While English puts the "what" at the beginning of a question, in Pandunia
+Tip: While English puts the "what" at the beginning of a question, in Dunish
 the word order is not affected by the **ke**.
 
 **me wanta nyama kafe.**
@@ -571,14 +569,14 @@ He/she doesn't know how to drive a car.
 **eska te abla xula le?**
 Do you know how to fix it?
 
-**eska te abla pandunia?**
-Can you speak Pandunia?
+**eska te abla Dunix?**
+Can you speak Dunish?
 
-**me abla pandunia.**
-I can speak Pandunia.
+**me abla Dunix.**
+I can speak Dunish.
 
-**me abla lil pandunia.**
-I can speak a little Pandunia.
+**me abla lil Dunix.**
+I can speak a little Dunish.
 
 **me ni abla engli.**
 I can't speak English.
@@ -598,11 +596,11 @@ I talk to you.
 **mome loga pa unale.**
 We talk to each other.
 
-**ze loga "cat" sa ki yang sa pandunia?**
-How do you say "cat" in Pandunia?
+**ze loga "cat" sa ki yang sa Dunix?**
+How do you say "cat" in Dunish?
 
-**"cat" si ke sa pandunia?**
-What is "cat" in Pandunia?
+**"cat" si ke sa Dunix?**
+What is "cat" in Dunish?
 
 **maw loga miaw.**
 Cat says meow.
@@ -667,11 +665,11 @@ Please, write it here!
 
 ### baxa <small>speak a language, communicate</small>
 
-**eska tote baxa pandunia.**
-Do you speak in Pandunia?
+**eska tote baxa Dunix.**
+Do you speak in Dunish?
 
-**mome baxa pandunia.**
-We speak in Pandunia.
+**mome baxa Dunix.**
+We speak in Dunish.
 
 **eska te abla baxa engli?**
 Can you speak English?
@@ -960,8 +958,8 @@ Go there / forward / back / left / right.
 ****
 Come here / back / to us.
 
-**me darsa pandunia.**
-I study Pandunia.
+**me darsa Dunix.**
+I study Dunish.
 
 **xowa le pa me ya leksobuke!**
 Show me in the dictionary!

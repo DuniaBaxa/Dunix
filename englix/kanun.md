@@ -92,6 +92,19 @@ it is needed.
 **tin kurse** - three chairs  
 **pol kurse** - many chairs; chairs
 
+If the number is not mentioned, there are different possibilities.
+
+1. The number is not important.
+2. The number is not known.
+3. The number is already known. (It has been already been mentioned.)
+
+> **kia ni ha baca?** - Do you have a child / children?
+
+An easy way to emphasize plurality is to repeat the noun.
+
+> **batu batu** - stones, lots of stones  
+> **tara tara** - stars, lots of stars  
+
 
 ### 2.3. Gender
 
@@ -101,6 +114,13 @@ and/or neuter categories).
 Some words carry _natural gender_. For example **fem** (woman) is
 feminine and **man** (man) is masculine.
 
+### 2.4. Compounds
+
+Two or more nouns can be put together to make a compound word. The last word is the most meaningful word in the compound and the words that come before it only modify the meaning.
+
+> **sol guang** - sunlight  
+> **luna guang** - moonlight  
+> **luna batu** - moonstone
 --------------------------------------------------------------------------------
 
 ## 3. Modifiers
