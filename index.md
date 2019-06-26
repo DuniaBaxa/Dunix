@@ -1,13 +1,12 @@
 
-![](http://www.pandunia.info/bandir/bandir.png "pandunia ya bandir")
+#Dunix - dunia baxa
 
-#pandunia - egal dunia bax
+#### [Dunix](dunix/index.md) 🏳️‍🌈
 
-#### [pandunia](pandunia/index.md) ![](http://pandunia.info/bandir/qpn.png)
+#### [English](englix/index.md) 🇬🇧 🇺🇸 🇨🇦 🇦🇺 🇳🇿
 
+<!--
 #### [bahasa Melayu/Indonesia](malay/index.md) 🇮🇩 🇲🇾
-
-#### [English](engli/index.md) 🇬🇧 🇺🇸 🇨🇦 🇦🇺 🇳🇿
 
 #### [español](espani/index.md) 🇪🇸 🇲🇽 🇨🇴 🇦🇷
 
@@ -26,4 +25,5 @@
 #### [suomi](suomi/index.md) 🇫🇮
 
 #### [中文](cini/index.md) 🇨🇳 🇹🇼
+-->
 
