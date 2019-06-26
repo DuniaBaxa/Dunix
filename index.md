@@ -9,7 +9,7 @@
 
 #### [español](espani/index.md) 🇪🇸 🇲🇽 🇨🇴 🇦🇷
 
-#### [Esperanto](esperanto/index.md) ![](http://pandunia.info/bandir/eo.png)
+#### [Esperanto](esperanto/index.md) ☆
 
 #### [français](frans/index.md) 🇫🇷 🇨🇦 🇨🇮 🇨🇩 🇩🇿
 
