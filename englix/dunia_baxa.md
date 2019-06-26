@@ -1,38 +1,9 @@
-# Pandunia - a global contact language
+# Dunish - a global contact language
  
 ## Introduction
 
-This article describes why and how Pandunia was created to be an
+This article describes why and how Dunish was created to be an
 equally global auxiliary language.
-
-## The big picture
-
-Many people are used to seeing this kind of world map. It is the
-famous _Mercator projection_ map. Unfortunately it distorts the land
-area terribly.
-
-![](http://www.lovelljohns.com/wp-content/uploads/2016/07/mercator.jpg "Mercator projection")
-
-Why is that? The world is a 3-dimensional globe and drawing it into a
-flat, 2-dimensional map is not easy. Equal-area projections, such as
-_Peter's projection_ below, show land areas correctly. Compare the
-sizes of Greenland and Africa in these two maps. In the Mercator
-projection Greenland appears bigger, but the Peters projection shows
-correctly that in reality Africa is 14 times bigger than Greenland.
-
-![](http://www.lovelljohns.com/wp-content/uploads/2016/07/cylindrical.jpg "Peters projection")
-
-That is the natural world. We live also in a human world, which is
-divided by borders between nations. In a normal map of world
-countries, sizes of the countries are defined by their geographic
-area.
-
-![](http://archive.worldmapper.org/images/largepng/1.png "Map by area")
-
-However the map projection below is based on the population of
-countries, not their geographic area.
-
-![](http://archive.worldmapper.org/images/largepng/2.png "Map by Population 2002")
 
 In our opinion the world language should represent the human world.
 Every part of the world, every culture, should be treated fairly and
@@ -103,7 +74,7 @@ Standard Chinese is written in Chinese characters, which form a
 system so complex that school children are taught to read the Roman
 alphabet first. This system of romanization is known as Pīnyīn.
 
-Therefore it is clear why also Pandunia is written in the Roman
+Therefore it is clear why also Dunish is written in the Roman
 alphabet.
 
 ### Only five vowels
@@ -114,20 +85,20 @@ many more vowel qualities). These are comparatively high numbers
 considering that globally the average vowel inventory size is only
 5-6 vowels.
 
-Pandunia has only 5 pure vowels: a, e, i, o, u. In this respect, it
+Dunish has only 5 pure vowels: a, e, i, o, u. In this respect, it
 is close to languages such as Spanish, Swahili, Japanese and
 Indonesian, which have simple vowel inventories.
 
 ### Common consonants
 
-Pandunia's consonant inventory is smaller than that of English and
+Dunish's consonant inventory is smaller than that of English and
 Mandarin. Majority of the consonant letters are pronounced in the
 same way in all three languages. The table below shows how consonant
-sounds are mapped from Pandunia to English and Mandarin. Sounds that
-are in English or Mandarin but not in Pandunia are enclosed in
+sounds are mapped from Dunish to English and Mandarin. Sounds that
+are in English or Mandarin but not in Dunish are enclosed in
 parenthesis.
 
-|            | Pandunia    | English       | Mandarin Pinyin |
+|            | Dunish    | English       | Mandarin Pinyin |
 |------------|-------------|---------------|-----------------|
 | Nasals     | m n ng      | m n ng        | m n ng          |
 | Stops      | p b t d k g | p b t d k g   | p b t d k g     |
@@ -145,10 +116,10 @@ and N is a nasal consonant. This gives Japanese a very vocalic sound.
 English, on the other hand, can have very heavy syllables, for
 example "sprints" (CCCVNCC).
 
-Pandunia is somewhere in the middle. Most of the words consist of
+Dunish is somewhere in the middle. Most of the words consist of
 simple CV syllables but also more complex syllables are allowed,
 especially for internationally known technical terms. For example
-**kristal** (crystal) is considered a complex word in Pandunia. More
+**kristal** (crystal) is considered a complex word in Dunish. More
 complex loan words can be dealt with in two ways.
 
 1. Select a simpler variant from another language. For example the
@@ -168,12 +139,12 @@ comparison to English, Pinyin is very regular. For example the
 English rhymes _my, sigh, lie,_ and _rye_ would be written in Pīnyīn
 _mai, sai, lai, rai_. It is as simple as that!
 
-Pandunia can be spelled regularly because it has fewer speech sounds
-(24) than there are letters in the basic Roman alphabet (26). The
-alphabet of Pandunia is:  
-a b c d e f g h i j k l m n o p r s t u w x y z
+Dunish can be spelled regularly because it has fewer speech sounds
+(25) than there are letters in the basic Roman alphabet (26). The
+alphabet of Dunish is:  
+a b c d e f g h i j k l m n o p r s t u v w x y z
 
-Pandunia has perfect letter-to-sound correspondence. One letter
+Dunish has perfect letter-to-sound correspondence. One letter
 stands for one sound only. One sound is represented by exactly one
 letter. Every word is pronounced as it is written.
 
@@ -196,10 +167,10 @@ stress is hard to learn for people who are used to fixed stress.
 Neither word tone nor variable word stress are necessary in the world
 language.
 
-Pandunia has fixed stress. The stress falls on the syllable that is
-before the last consonant. Like this: **me wóla lóga bón dúnia báx.**
+Dunish has fixed stress. The stress falls on the first syllable.
+Like this: **Mi wánte tóke da gúde dúnia báxa.**
 
-Pandunia doesn't have lexical tone.
+Dunish doesn't have lexical tone.
 
 
 
@@ -232,7 +203,7 @@ _Cats_ is an agglutinative word that consists of two distincts parts
 (_cat_ and _-s_). _Leaves_ is a fused word that consists of two parts
 (_leaf_ and _-s_).
 
-Pandunia belongs to the first type. It is an analytic language. Its
+Dunish belongs to the first type. It is an analytic language. Its
 words consist of few parts and they are clearly separable. This is a
 good thing because it makes the language easy to learn and use in
 comparison to languages where words in average are long and consist
@@ -251,7 +222,7 @@ un-kind) and suffixes (kind-ly)
 Suffixing languages are the most common type. Indo-European
 languages, Telugu, Chinese and Japanese are mostly suffixing.
 
-Chinese has no inflection. Words are only combined into larger words.
+Chinese has no inflections. Words are only combined into larger words.
 Some words have a special meaning when they appear as a part of a
 larger word. These so called bound morphemes are much like suffixes.
 
@@ -266,8 +237,9 @@ The root consists of (usually three) consonants and the root is
 changed by inserting a pattern of vowels between them. Arabic also
 has many prefixes and suffixes for creating additional words.
 
-Pandunia uses _root and affix system_. The principles of this system
-are known to most people. New words can be created easily.
+Dunish is like Chinese, it has no inflextions. However new words
+can be derived with the _root and affix system_ because the working
+of this system are known to most people.
 
 
 ### Word orders
@@ -324,20 +296,14 @@ language, which has to welcome people with many different speaking
 habits. It doesn't make the language only versatile but also more
 interesting!
 
-Pandunia allows different word orders. This is achieved mainly by
-the verb endings -a and -u, which signal reverse word orders. In
-Pandunia verbs can function also as adpositions (so called _coverbs_).
+Dunish allows different word orders. This is achieved by the
+direct object marker **da**, which is necessary for other word orders
+than the standard subject–verb–object (SVO).
 
-**me ama te.** (SVO)  
-**me te amu.** (SOV)  
+**Mi love yu.** (SVO)  
+**Mi da yu love.** (SOV)  
+**Da yu mi love.** (OSV)  
 I love you.
-
-**me jampa supra gaw meze.**
-(I jump, surpass the high table.)  
-**me jampa gaw meze supru.**
-(I jump, the high table is-surpassed.)  
-I jump over the high table.
-
 
  
 ## World words
@@ -381,19 +347,18 @@ Also English uses comparable affixes.
 - Nouns: shortness, shorty
 - Verb: shorten
 
-Pandunia borrows the roots of Western words. The goal is to select a
+Dunish borrows the roots of Western words. The goal is to select a
 form that sounds familiar to speakers of as many languages as possible.
 
-| Pandunia root | English    | Portuguese | Spanish    | French     | German     | Russian    |
+| Dunish word   | English    | Portuguese | Spanish    | French     | German     | Russian    |
 |---------------|------------|------------|------------|------------|------------|------------|
-| **kort**      | short      | curto      | corto      | court      | kurz       | korotkiy   |
-| **now**       | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
-| **marc**      | march      | marcha     | marcha     | marche     | Marsch     | marš       |
-| **post**      | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
+| **korte**     | short      | curto      | corto      | court      | kurz       | korotkiy   |
+| **nove**      | new        | novo       | nuevo      | nouveau    | neu        | novıy      |
+| **marce**     | march      | marcha     | marcha     | marche     | Marsch     | marš       |
+| **poste**     | post (mail)| (postal)   | posta      | poste      | Post       | počta      |
 
-The suffixes of Pandunia are applied on the roots. Here are some
-resulting Pandunia words: korti (short), korte (shorty), korta 
-(shorten), nowi (new), nowe (news), nowa (renovate).
+The same word can be used as noun, adjective or verb in Dunish
+without any change in form.
 
 
 ### Sinitic words
@@ -406,17 +371,17 @@ of syllabic elements.
 Middle Chinese had lexical tone. Today Chinese languages and
 Vietnamese have tones but they are not the same as in Middle Chinese.
 Japanese and Korean are not tonal languages so they have ignored the
-tones. Also Pandunia ignores the tones. (To ignore the tones is about
+tones. Also Dunish ignores the tones. (To ignore the tones is about
 the same as to ignore the stress accent or pitch accent of other
 source languages.)
 
 Middle Chinese had unreleased stop consonants, which are usually
 written -p, -t and -k. Cantonese, Vietnamese and Korean keep them
 mostly as they were. Mandarin has deleted them. Japanese has added a
-vowel to ease pronunciation. Pandunia keeps the final stops and adds
+vowel to ease pronunciation. Dunish keeps the final stops and adds
 a normal PoS suffix.
  
-| 字 | Pandunia root | Cantonese  | Mandarin   | Japanese   | Korean     | Vietnamese |
+| 字 | Dunish word   | Cantonese  | Mandarin   | Japanese   | Korean     | Vietnamese |
 |----|---------------|------------|------------|------------|------------|------------|
 | 水 | **suy**       | sui        | shuǐ       | sui        | su         | thuỷ       |
 | 中 | **jung**      | zung       | zhōng      | chū        | jung       | trung      |
@@ -426,15 +391,11 @@ a normal PoS suffix.
 | 讀 | **dug**       | duk        | dú         | doku       | dog        | đọc        |
 | 出 | **cut**       | cœt        | chū        | shutsu     | chul       | xuất       |
 
-Applying the suffixes of Pandunia to Sinitic roots may seem unusual
-at first, but it is nothing new – Sinitic words are already inflected
-in Korean!
-
 
 
 ## Easy sentences
 
-In this section we will compare the sentence structures of Pandunia
+In this section we will compare the sentence structures of Dunish
 with English and Chinese, the two most widely spoken languages of the
 world.
 
@@ -442,46 +403,46 @@ The normal sentence word order is subject-verb-object – just like in
 English and Chinese.
 
     English:   I love you, and you love me.
-    Pandunia:  me ama te, te ama me.
+    Dunish:    Mi love yu, yu love mi.
     Chinese:   Wǒ ài nǐ, nǐ ài wǒ. (我爱你，你爱我。)
 
-The verb **beyu** is used when the object of an action comes first in
+The verb **bey** is used when the object of an action comes first in
 the sentence. (This is the so called passive sentence.)
 
     English:   The apples were eaten.
-    Pandunia:  aple beyu nyama.
+    Dunish:    Aple bey nyam.
     Chinese:   Píngguǒ bèi chī le. (苹果被吃了。)
 
 **beyu** is a loan word from Standard Chinese, but it is also close to
 some uses of English "to be".
 
     English:   It can not be eaten.
-    Pandunia:  le ni abla beyu nyama.
+    Dunish:    Ha no kan bey nyam.
     Chinese:   Tā bù néng bèi chī. (它不能被吃。)
 
-Like Chinese, Pandunia doesn't mark verbs with a word like "to".
+Like Chinese, Dunish doesn't mark verbs with a word like "to".
 
     English:   I invite him to drink coffee.
-    Pandunia:  me plisa le nyama kafe.
+    Dunish:    Mi plis ha nyam da kafe.
     Chinese:   Wǒ qǐng tā hē kāfēi. (我请他喝咖啡。)
 
-In Pandunia and Chinese, nouns can be singular or plural depending
+In Dunish and Chinese, nouns can be singular or plural depending
 on surrounding words. There's no plural ending like -s in English.
 Also verbs are not conjugated. One word, **si**, is used instead of
 _am, is, are, was, were..._
 
     English:   It is an apple.
-    Pandunia:  le si aple.
+    Dunish:    Ha is aple.
     Chinese:   Tā shì píngguǒ. (他是苹果。)
 
     English:   They are apples.
-    Pandunia:  lole si aple.
+    Dunish:    De is aple.
     Chinese:   Tāmen shì píngguǒ. (他们是苹果。)
 
 
 
-## Pandunia - a global language
+## Dunish - a global language
 
-![](http://www.pandunia.info/grafe/bandera.png "Pandunia flag")
+![](http://www.pandunia.info/grafe/bandera.png "Dunish flag")
 
 
