@@ -1,23 +1,43 @@
-Pandunia - a simple world language
-==================================
+# Dunish - simple conlang for the world
 
-![](http://www.pandunia.info/bandir/bandir.png "The flag of Pandunia")
+Dunish is a simple language for the whole world.
 
-## What's Pandunia?
+## Features of Dunish
 
-Pandunia is a constructed global interlanguage. In other words, it is a
-man-made language that is designed to serve in international communication
-everywhere in the world as a supplement to other languages.
+- Basic words come from English, the most studied language in the world.
+- The rest of words come from all around the world.
+- Sound and spelling of words are easy for everybody.
+- The grammar is about word order only.
+- Sentence structure is like in English and Chinese, 
+  the top-2 languages of the world.
+- As a constructed language, Dunish is completely regular
+  – there are no exceptions!
+- No inflections. Words never change!
 
-Some remarkable features of Pandunia:
+## Yu toke da Dunix? Yes!
 
-- Pandunia is simpler and easier than naturally evolved international languages
-  like English, Chinese, French and Arabic.
-- As a constructed language, Pandunia is completely regular – there are no
-  exceptions.
-- Pandunia is truly international! Words of Pandunia are world words, which are
-  borrowed from many languages all across the globe, including the top-10 most
-  widely spoken languages of the world.
+Dunish is already a practical international language!
+You can use Dunish to talk with speakers of English,
+because they can understand basic Dunish.
+Likewise, speakers of Dunish can understand simple English phrases.
+
+## Forums
+
+Dunish is a brand new language and there aren't forums for it yet.
+You can talk about it in some conlang forums in Discord or Facebook
+or in good old mailing lists like
+[Auxlang](https://listserv.brown.edu/archives/auxlang.html)
+([mirror](https://groups.yahoo.com/neo/groups/Auxlang/info)).
+
+## Disclaimer
+
+Dunish is copy-freed by
+[Attribution 4.0 International (CC BY 4.0) license](https://github.com/DuniaBaxa/Dunix/blob/master/LICENSE.md)
+
+Dunish is forked from [Pandunia](https://github.com/barumau/pandunia),
+which is an older evenly global constructed language by Risto Kupsala.
+
+<!--
 
 ## Learning material
 
@@ -47,31 +67,5 @@ Some remarkable features of Pandunia:
 - [Esperanto vs. Pandunia](esperanti_i_pandunia.md)
 - [Miscellaneous notes](note.md)
 
-## Join Others
+-->
 
-Many people are already interested about Pandunia and they are speaking it. You can find Pandunia forums in several places:
-
-- Links and discussion in [Reddit](https://www.reddit.com/r/pandunia/)
-- [Friends of Pandunia](http://www.facebook.com/groups/pandunia) in Facebook
-- Channels in Telegram instant messenger:
-    * [multilingual](https://t.me/joinchat/AAAAAEPVsifmS6xRLAlxVA)
-    * [in Esperanto](https://pandunia.telegramo.org/)
-    * [in Pandunia](https://t.me/joinchat/AAAAAENlKqzlMtGkrmf5rg).
-- Find other Pandunia speakers in [Amikumu](https://amikumu.com/) app!
-- [channels in Discord](https://discord.gg/FWavWeG)
-- QQ channel: 717549404
-- You can follow Pandunia also on [Twitter](https://twitter.com/pandunia_).
-  Spread the word!
-- The official [Pandunia e-mail
-  list](https://groups.yahoo.com/neo/groups/pandunia/info) can be joined using
-  a Yahoo account or just [sending a blank e-mail
-  message](mailto:pandunia-subscribe@yahoogroups.com).
-- You can help to [translate this site](tarja_netoloke.md)
-- Other related mailing lists:
-    * [Auxlang](https://listserv.brown.edu/archives/auxlang.html)
-      ([mirror](https://groups.yahoo.com/neo/groups/Auxlang/info))
-    * [Worldlang list](https://groups.yahoo.com/neo/groups/Worldlanglist/info).
-
-You can contact a creator of Pandunia, Risto Kupsala, via email
-[risto@pandunia.info](mailto:risto@pandunia.info) and in the aforementioned
-forums.
