@@ -1,5 +1,4 @@
-
-#Dunix - dunia baxa
+# Dunix - dunia baxa
 
 #### [Dunix](dunix/index.md) 🏳️‍🌈
 
