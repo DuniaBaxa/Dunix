@@ -41,18 +41,18 @@ which is an older evenly global constructed language by Risto Kupsala.
 
 ## Learning material
 
-- [Mini lessons with pictures](http://www.pandunia.info/pandunia/mini_darse.html)
 - [Spelling](abc.md)
 - [Phrasebook](fraze.md)
+- [Mini lessons with emoji](../dunix/mini_darse.html)
 - [Lessons with Dialogs](darse.md)
 - [Grammar](kanun.md)
 
-- [Searchable dictionary](tiddly.html)
-- [English-Pandunia](engli-pandunia.md) dictionary
-- [Pandunia-English](pandunia-engli.md) dictionary
-- [Origins of words](../pandunia/loge_asle.md) (in Pandunia only)
+## Dictionaries
 
-- [Your name in Pandunia](ren_da_nam.md)
+- [Searchable dictionary](tiddly.html)
+- [English-Dunish](englix-dunix.md) dictionary
+- [Dunish-English](dunix-englix.md) dictionary
+- [Origins of words](../pandunia/loge_asle.md) (in Pandunia only)
 
 ## Stories
 
@@ -60,12 +60,7 @@ which is an older evenly global constructed language by Risto Kupsala.
 
 ## Articles
 
-- [Pandunia - a new world language](dunia_bax.md)
-- [Presentation in PDF format](Pandunia-presentation.pdf)
-- [Mentions about Pandunia in other publications](makal_tema_pandunia.md)
-- [Why do I like Pandunia?](http://www.pandunia.info/makal/Why_do_I_like_Pandunia.pdf) - opinions from learners
-- [Esperanto vs. Pandunia](esperanti_i_pandunia.md)
-- [Miscellaneous notes](note.md)
+- [Dunish - a new world language](dunia_baxa.md)
 
 -->
 
