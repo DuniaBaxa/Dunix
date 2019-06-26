@@ -1,19 +1,40 @@
-# Spelling of Pandunia
+# Sounds and Spelling of Dunish
 
-The Basic Latin alphabet is used for writing Pandunia.  Here is the alphabet of
-Pandunia followed by the symbols of the International Phonetic Alphabet (IPA).
+## Alphabet
 
-| Pandunia: | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | w | x | y | z |
+The Basic Latin alphabet is used for writing Dunish. Here is the alphabet of
+Dunish followed by the symbols of the International Phonetic Alphabet (IPA).
+
+| Dunish:   | a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | r | s | t | u | v | w | x | y | z |
 |-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | w~ʋ~v | ʃ | j | z~dz |
+| IPA: | a | b | tʃ | d | e | f | g | h~x | i | dʒ | kʰ | l | m | n | o | pʰ | r~ɹ | s | tʰ | u | v | w~u | ʃ | j~i | z~dz |
 
-
-Pandunia, like Spanish, is pronounced exactly as it is spelt. No letter is
+Dunish, like Spanish, is pronounced exactly as it is spelt. No letter is
 silent. Every letter has one sound, always the same.
+
+## Letter names
+
+Names of consonants, which sound similar because they have similar
+properties, end in different vowels.
+
+a bo du e fe ge ho  
+i je ka la mu na o  
+pa ku ro sa te u vo  
+(e laste) we xi ya zo  
+Alfabete bey lerne  
+be metode of cante!
+
+<!--
+mu bo pa fe
+na du te sa xi
+   ge ka zo
+   la ho ca
+   ro    je
+-->
 
 ## Consonant Sounds
 
-    p  b  f     m  w
+    p  b  f  v  m  w
     t  d  s  z  n  l  r
     c  j  x        y
     k  g  h
@@ -21,7 +42,7 @@ silent. Every letter has one sound, always the same.
 Most consonants are pronounced same as in English. So pronunciation of
 **b, d, f, h, j, k, l, m, n, p, t, w, z** is familiar and easy.
 
-The following consonants are pronounced differently in Pandunia than in English.
+The following consonants are pronounced differently in Dunish than in English.
 
 - **g** is always hard like in _girl, get_.
 - **r** is preferably trilled like in Scottish English or the rr in Spanish
@@ -33,8 +54,8 @@ The following consonants are pronounced differently in Pandunia than in English.
 - **j** is pronounced like the English J.
 - **n** is pronounced with the tip of the tongue except in combinations **nk**
   and **ng**, where it is velar /ŋ/ like in _banker_ and _finger_. In the end
-  of a word, the **g** in **ng** can be silent. So the word **pang** can be
-  pronounced /paŋ/ as well as /paŋg/.
+  of a word, the **g** in **ng** can be silent. So the word **ting** can be
+  pronounced /tiŋ/ as well as /tiŋg/.
 
 
 ## Semivowels
@@ -43,14 +64,10 @@ Semivowels **y** and **w** are pronounced like in English.
 As semivowels **y** is close to **i** sound and **w** is close to
 **u** sound.
 
-Semivowels **y** and **w** are always followed by a full vowel or
-a word break (when the bare word stem is used). For example:  
-**maw tena naw jiwe.** = The cat has nine lives.
-
 
 ## Vowel Sounds
 
-Pandunia has five vowels.
+Dunish has five vowels.
 
     i   u
     e   o
@@ -61,63 +78,64 @@ _hey_, **i** like in _machine_, **o** like in _boy_ and **u** like in
 _rude_. They are pure vowels, so their quality doesn't change over
 the duration of the vowel.
 
+When **e** is the last sound in a polysyllabic word, it can be
+very weak, like a schwa sound. So for example **buke** (book) may
+be pronounced /bukə/.
+
 
 ## Gliding Vowels
 
 When two vowels are next to each other, they will glide together and
 form a _diphthong_ i.e. a gliding vowel.
 
-For example **a** and **u** form a gliding vowel in the word **paus**.
+For example **a** and **u** form a gliding vowel in the word **haus**
+(house).
 So the vowel begins in **a** and glides gradually to **u**.
-There is a similar gliding vowel in **paw**.
+There is a similar gliding vowel in **naw** (now).
 
 
 ## Stress Accent
 
-The stress is on the syllable, which is before the last consonant.
+The stress is on the first syllable of every word.
 
 Consider the following examples:
 
-- **maw** /máw/, beng /béng/
-- **komun** /komún/, **bazar** /bazár/, **kamis** /kamís/, **sofah** /sofáh/
-- **nowi** /nówi/, **musike** /musíke/, **arabi** /arábi/
-- **dunia** /dúnia/, **arabia** /arábia/
+- **maw** /máw/, **ting** /tíŋ/
+- **komun** /kómun/, **bazar** /bázar/, **sofa** /sófa/
+- **musike** /músike/, **arabi** /árabi/
+- **dunia** /dúnia/
 
-     dunia si momi sundar planete.  
-    /dúnia sí mómi sundár planéte./
+     Dunia is wi's byuti planete.  
+    /dúnia ís wís  byúti plánete./
 
-     me wanta loga komun bax, le si pandunia.  
-    /mé wánta lóga komún báx, lé sí pandúnia./
-
-     darsogur sida sa sofah.  
-    /dársogúr sída sá sofáh/
+     Mi wante toke komun baxa, ha is Dunix.  
+    /Mí wántə tókə kómun báʃa, há ís dúniʃ./
 
 
 ## Letter Case
 
-Pandunia is normally written only in small letters (i.e. lower case letters).
-Large letters are not used in general, although they are not forbidden either.
+Both small and large letters (i.e. lower and upper case letters) can
+be used for writing Dunish, but it's also acceptable to use only
+small letters for simplicity.
+
+The capitalization rules are simple:
+
+1. The first letter of a name is large.
+2. The first letter of a sentence is large.
 
 There are three reasons why large letters and rules about their usage
-are not needed.
+are unnecessary.
 
 1. Writing represents speech and there are no "capital sounds" in speech in
    beginning of proper names etc.
 2. Most of the scripts and alphabets of the world have only one letter type.
 3. It is simpler to use only small letters. No need for rules and exceptions.
 
-Note! It's not a mistake to use the capital letters. Sometimes people do it
-because they are used to them in other languages. But still capital letters are
-unnecessary and not recommended.
-
-Capital letters are used in standard international acronyms. For example: 10 Mb
-(des megobite), 100 Gb (hon gigobite), 2 mm (dul milometre), 1 kJ (un kilojul).
-
 
 ## Syllabification
 
 [-] Words may be divided into syllables with a hyphen. The hyphen is placed
-between spoken syllables. For example: bin, ka-fe, yu-mor, pos-ta.
+between spoken syllables. For example: bin, ka-fe, yu-me, pos-te.
 
 
 ## Punctuation
@@ -138,45 +156,31 @@ uncertainty.
 In informal texts smileys, emoticons and emojis may be used to indicate mood.
 For example **:)** indicates happiness and **:(** indicates sadness.
 
-**me wida te :)**
-= I see you.  
-**me ni wida te :(**
-= I don't see you.
+**Mi love yu :)**
+= I love you.  
+**Yu no love mi :(**
+= You don't love me.
+
+Emojis can be used too.
+
+**Mi love yu 😊**
+= I love you.  
+**Yu no love mi ☹**
+= You don't love me.
 
 
 ## Word structure
 
-The most common word structure in Pandunia is CVCV, where C is a consonant and
-V is a vowel.
+The most common word structure in Dunish is CVCV, where C is a
+consonant and V is a vowel.
 
-The heaviest possible word is CLVCCVC, where L is a liquid consonant (l or r).
-For example **kristal** is such a word.
+The heaviest possible word is CLVCCVS, where L is a liquid consonant
+(l, r, y or w) and F is an acceptable final vowel. For example
+**kristal** (crystal) is a heavy word.
 
-Initial consonants are restricted to:
+Allowed final consonants include:
 
-1. Any single consonant except /ŋ/
-2. Stop + liquid
-    - pl, bl, kl, gl
-    - pr, br, tr, dr, kr, gr
-3. Consonant + semivowel
-   - f.ex. ny, py, sw
-
-Middle consonant clusters are restricted to:
-
-1. Resonant (m, n, ŋ, l, r) + stop or affricate
-    - mp, mb, nt, nd, nk, ng, nc, nj
-    - lp, lb, lt, ld, lk, lg
-    - rp, rb, rt, rd, rk, rg
-2. Resonant + sibilant
-    - ns, ls, rs
-    - nz, lz, rz
-    - nx, lx, rx
-3. Sibilant + stop
-    - st, sp, sk
-4. Resonant + sibilant + stop
-    - f.ex. lsk
-5. Stop + liquid (see above)
-
-Allowed final consonants are:  
-h, l, m, n, ng, r, s, w, x, y
+- nasals: m, n, ng
+- liquids: l, r, y, w
+- voiceless fricatives: s, x, h, f
 
